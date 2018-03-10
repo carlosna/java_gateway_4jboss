@@ -1,5 +1,7 @@
 # Zabbix Java Gateway
 
+Esse projeto foi adaptado para coletar métricas do Jboss6+
+
 ## Description
 
 This is the Zabbix Java Gateway sources updated to allow
